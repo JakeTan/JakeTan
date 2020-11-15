@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaketan&label=Profile%20views&color=0e75b6&style=flat" alt="jaketan" /> </p>
 
-- 🔭 I’m currently working on [Front End Developer course at](Scrimba.com)
+- 🔭 I’m currently working on [Front End Developer course at](Scrimba)
 
 - 🌱 I’m currently learning **JavaScript and React**
 
